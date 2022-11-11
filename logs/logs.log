@@ -16243,3 +16243,6 @@
 {"message":"MongoDB Initialized","level":"info","timestamp":"11-11-2022 12:04:40"}
 {"message":"Express Initialized","level":"info","timestamp":"11-11-2022 12:04:40"}
 {"message":"Server is running on port 3001","level":"info","timestamp":"11-11-2022 12:04:40"}
+{"message":"MongoDB Initialized","level":"info","timestamp":"11-11-2022 12:31:06"}
+{"message":"Express Initialized","level":"info","timestamp":"11-11-2022 12:31:06"}
+{"message":"Server is running on port 3001","level":"info","timestamp":"11-11-2022 12:31:06"}
